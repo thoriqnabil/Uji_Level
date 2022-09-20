@@ -6,10 +6,10 @@ if (isset($_POST['tambah'])){
     $nisn_siswa = $_POST ['nisn_siswa'];
     $nama_siswa = $_POST ['nama_siswa'];
     $alamat = $_POST ['alamat'];
-    $nomor_telepon = $_POST ['nomor_telepon'];
+    $no_telepon = $_POST ['no_telepon'];
     $ttl = $_POST ['ttl'];
 
-    $sql = "INSERT INTO pelanggan (id_pelanggan, nama_pelanggan, alamat, telepon,email) VALUES('$id_pelanggan','$nama_pelanggan','$alamat','$telepon','$email')";
+    $sql = "INSERT INTO datasiswa (id_siswa, nisn_siswa, nama_siswa, alamat, no_telepon, ttl ) VALUES('$id_siswa','$nisn_siswa','$nama_siswa','$alamat','$no_telepon','$ttl')";
 
     $query = mysqli_query ($connect,$sql);
 

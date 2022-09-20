@@ -1,0 +1,148 @@
+.sidebar{
+    position: absolute;
+    width: 250px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background: #636E72;
+    }
+    
+    img{
+    height: 50px;
+    width: 55px;
+    padding: 30px;
+    margin-left: -20px;
+    }
+    
+    .background{
+    position: fixed;
+    top: 0px;
+    width: 1440px;
+    height: 698px;
+    background: #2D3436;
+    z-index: -1;
+    }
+    
+    h2{
+    position: absolute;
+    width: 208px;
+    height: 28px;
+    left: 81px;
+    top: 20px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+    }
+    
+    .gambar1{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 20px;
+    top: 128px;
+    }
+    
+    .data{
+    position: absolute;
+    height: 28px;
+    width: 208px;
+    left: 89px;
+    top: 144px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+    }
+    
+    .gambar{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 20px;
+    top: 230px;
+        
+    }
+    
+    .buku{
+    position: absolute;
+    width: 208px;
+    height: 28px;
+    left: 89px;
+    top: 243px;
+        
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28px;
+        
+    color: #FFFFFF;
+    }   
+    
+    .dashbord{
+    position: absolute;
+    width: 321px;
+    height: 57px;
+    left: 653px;
+    top: 29px;
+    background: #373F41;
+    border-radius: 22px;
+    }
+    
+    .dashbord h3{
+    position: absolute;
+    width: 300px;
+    height: 75px;
+    left: 23px;
+    top: -73px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 75px;
+    
+    color: #FFFFFF;
+    }
+    
+    .background2{
+    position: absolute;
+    width: 960px;
+    height: 569px;
+    left: 333px;
+    top: 118px;
+    
+    background: #373F41;
+    border-radius: 80px;
+    }
+    
+    .background2 p{
+    position: absolute;
+    width: 108px;
+    height: 23px;
+    left: 75px;
+    top: -5px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    }
+    
+    .background3{
+    position: absolute;
+    width: 870px;
+    height: 480px;
+    left: 380px;
+    top: 167px;  
+    background: #414A4D;
+    border-radius: 50px;
+    }
